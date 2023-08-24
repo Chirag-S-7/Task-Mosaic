@@ -3,4 +3,5 @@ Task-Mosaic is an Android App to store To-Dos. It is a learning project based on
 
 # App Demo
 
-https://github.com/Chirag-S-7/Task-Mosaic/assets/90342267/b619b3ef-6e10-4c53-b1ca-6ad8ab4f215a
+https://github.com/Chirag-S-7/Task-Mosaic/assets/90342267/41b8924b-5be6-4d7c-a0c0-808bd63ffc4c
+
